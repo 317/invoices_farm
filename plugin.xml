@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<plugin>
+	<nom>Invoices to PDF</nom>
+ 	<version>0.9</version>
+ 	<prefix>invoices_to_pdf</prefix>
+	<type>classique</type>
+ 	<auteur>Thierno Rignoux</auteur>
+ 	<thelia>1.5.0</thelia>
+ 	<description>Exportation des factures en PDF</description>
+ 	<rubrique>classique</rubrique>
+	<lien></lien>
+	<documentation>README.TXT</documentation>
+ 	<etat>beta</etat>
+	<install></install>
+</plugin>

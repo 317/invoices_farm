@@ -1,0 +1,9 @@
+.invoice_to_pdf_container{float: left;width: 978px;margin-left: auto;margin-right: auto;padding: 0 10px 10px 10px;background-color: #FFF;border-left: 1px #add7f1 solid;border-right: 1px #add7f1 solid;}
+.invoice_to_pdf_container .titre{font-size:24px;width:100%;border-bottom:1px solid #add7f1;margin-bottom:20px; }
+.invoice_to_pdf_container form {margin-left:50px; width:400px;}
+.invoice_to_pdf_container form label{width:100%; font-size:20px; }
+.invoice_to_pdf_container form select{width:100%}
+.invoice_to_pdf_container form input{padding:20px 80px; float:right;margin:10px -1px 0 0;}
+
+.invoice_to_pdf_container  .message_OK{width:100%; text-align:center;font-weight:bold; background:#229922; color:#fff;padding:10px 0; margin-bottom:20px;}
+
