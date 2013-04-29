@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding='UTF-8'?>
 <plugin>
-	<nom>Invoices to PDF</nom>
+	<nom>Invoices Farm</nom>
  	<version>0.9</version>
- 	<prefix>invoices_to_pdf</prefix>
+ 	<prefix>invoices_farm</prefix>
 	<type>classique</type>
  	<auteur>Thierno Rignoux</auteur>
+	<auteur>Eléonore Klein</auteur>
  	<thelia>1.5.0</thelia>
- 	<description>Exportation des factures en PDF</description>
+ 	<description>Allow the generation of all the invoices of a given month with the help of a given template.</description>
  	<rubrique>classique</rubrique>
 	<lien></lien>
-	<documentation>README.TXT</documentation>
+	<documentation>README.md</documentation>
  	<etat>beta</etat>
 	<install></install>
 </plugin>
